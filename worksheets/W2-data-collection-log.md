@@ -10,10 +10,10 @@
 
 ## ข้อมูลทีม + Edge Impulse
 
-- **ชื่อทีม:** _________________
+- **ชื่อทีม:** ____ไข่ะโล้_____
 - **Edge Impulse Project URL:**
   ```
-  https://studio.edgeimpulse.com/studio/XXXXX
+  [https://studio.edgeimpulse.com/studio/XXXXX](https://studio.edgeimpulse.com/public/1011939/live)
   ```
 
 ---
